@@ -1,0 +1,6 @@
+framework module project1InPods {
+  umbrella header "project1InPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

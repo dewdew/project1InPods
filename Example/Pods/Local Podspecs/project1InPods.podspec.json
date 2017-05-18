@@ -1,0 +1,22 @@
+{
+  "name": "project1InPods",
+  "version": "0.1.0",
+  "summary": "A short description of project1InPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hxliu@nltechdev.com/project1InPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hxliu@nltechdev.com": "hxliu@nltechdev.com"
+  },
+  "source": {
+    "git": "https://github.com/hxliu@nltechdev.com/project1InPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "project1InPods/Classes/**/*"
+}
